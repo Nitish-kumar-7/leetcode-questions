@@ -6,7 +6,7 @@
 [Submission Link](https://leetcode.com/submissions/detail/1770412033/)
 ---
 
-### Problem 1004: Max Consecutive Ones III
-[Submission Link](https://leetcode.com/submissions/detail/1771491925/)
+### Problem 852: Peak Index in a Mountain Array
+[Submission Link](https://leetcode.com/submissions/detail/1767443239/)
 ---
 
