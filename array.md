@@ -14,3 +14,7 @@
 [Submission Link](https://leetcode.com/submissions/detail/1771845313/)
 ---
 
+### Problem 21: Merge Two Sorted Lists
+[Submission Link](https://leetcode.com/submissions/detail/1768892341/)
+---
+
