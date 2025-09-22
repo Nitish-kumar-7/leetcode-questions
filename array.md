@@ -18,7 +18,3 @@
 [Submission Link](https://leetcode.com/submissions/detail/1768892341/)
 ---
 
-### Problem 704: Binary Search
-[Submission Link](https://leetcode.com/problems/binary-search/description/)
----
-
