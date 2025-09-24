@@ -13,3 +13,7 @@
 [Submission Link](https://leetcode.com/submissions/detail/1778934753/)
 ---
 
+### Problem gfg:  Allocate Minimum Pages
+[Submission Link](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
+---
+
